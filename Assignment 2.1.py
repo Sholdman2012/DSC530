@@ -5,7 +5,6 @@
 # Display the text “Hello World! I wonder why that is always the default coding text to start with”
 print("Hello World! I wonder why that is always the default coding text to start with")
 
-
 # Add two numbers together
 print(100 + 32)
 
